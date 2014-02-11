@@ -7,7 +7,7 @@ $('.box').transition({
 
 });
 
-
+$('.box').addClass('animated fadeInDownBig');
 
 
 //console.log('Ok USA!');
