@@ -1,0 +1,2 @@
+$(document).foundation();
+$('.box').addIn('animated, fadeInDownBig');
